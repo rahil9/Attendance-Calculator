@@ -26,11 +26,9 @@ git clone https://github.com/rahil9/attendance-calculator.git
 
 ## Screenshots
 
-![image](https://github.com/rahil9/Attendance-Calculator/assets/92690520/76293bc1-568b-4545-aa29-8253dbdc5845)
-![image](https://github.com/rahil9/Attendance-Calculator/assets/92690520/bb88cf62-fe51-4eb4-b405-1adf0ec495e0)
-![image](https://github.com/rahil9/Attendance-Calculator/assets/92690520/7134833d-604b-48b6-ac9c-9ca05829466b)
-![image](https://github.com/rahil9/Attendance-Calculator/assets/92690520/b95402ff-934d-4538-80c6-fd5763f0f2c2)
-
+![image](https://github.com/rahil9/Attendance-Calculator-Using-Java/assets/92690520/56a3af2e-1a7e-492d-9065-b238057c4b79)
+![image](https://github.com/rahil9/Attendance-Calculator-Using-Java/assets/92690520/0a1f87b9-cc26-447e-8250-4e584971ad32)
+![image](https://github.com/rahil9/Attendance-Calculator-Using-Java/assets/92690520/b9481c6f-2f24-4d6c-8efd-fdda3a63e959)
 
 ## Contributing
 
